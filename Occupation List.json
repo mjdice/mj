@@ -1,0 +1,4817 @@
+[
+ {
+   "Occupation": "Accountant (Chartered, CPA, Financial, Tax)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Actor (film, theatre, television)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Actuary",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Acupuncturist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Adult care worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Advertising director, executive, manager, Promotions director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Advertising salesperson",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Aerial photographer",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Aerobics teacher",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Agent (motion picture industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Agricultural research director",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Agricultural worker (production, animal management, working on the land or using machinery or tools)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Agronomist",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Air conditioning and heating installer and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Air marshal (FBI)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Air traffic controller",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Airline security personnel (carrying a firearm)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Airline security personnel (unarmed)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Airport firefighter",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Airport porter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Alarm installer, repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Allergist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ambulance driver",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Amusement park director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Analytical chemist",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Anesthesiologist, anesthetist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Animal husbandry manager",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Announcer (radio, television)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Antique dealer (buying or selling only; no delivery, repair or refinishing)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Antique dealer (including repair, refinishing or delivery)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Apartment building manager (including repair or other manual duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Apartment building manager (office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Appliance repair person",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Aquatic therapist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Archeologist (including field work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Archeologist (no field work)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Architect",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Armed forces personnel",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Armored car guard",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Art gallery curator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Artist (commercial, not freelance)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Artist (freelance)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Asbestos remover",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Asphalt worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Assembly line worker (factory or heavy manual work)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Assembly line worker (light industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Assessor (Government and legal services)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Astronomer",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Athlete (professional or elite sport)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Athletics trainer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Attendant (hospital or sanitorium)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Attorney",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Auctioneer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Audiologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Auditor",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Author",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Auto glass installer or repairer (service center or mobile)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Auto parts supplier",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Auto transporter driver",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Aviation mechanic",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Aviation ticket manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Backhoe operator",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Baggage handler (airport)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Baggage handler (railroad)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bail bond agent",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bailiff (carrying a firearm)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bailiff (court duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bailiff (unarmed)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Baker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bakery delivery person",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bakery proprietor (manufacturer, supervisory duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bakery proprietor (retail, supervisory duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Band conductor (music group)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Band musician (not pop musician)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bank guard",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bank manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bank security guard",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bank teller, cashier, banking officer",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Banqueting venue director, manager, operator, owner or proprietor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bar manager, operator, owner or proprietor (not bartender)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Barber",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bartender",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Basement waterproofer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Beautician",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bed and breakfast proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Beekeeper",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bicycle repairer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Big game guide",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bill collector, collection agent (no repossession work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Billboard poster",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Biologist (including field work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Biologist, botanist (no field work)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Blacksmith",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Blender (brewery, distillery or winery)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Boat builder",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Boat captain (no overnight journeys)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Boat captain (overnight journeys)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Boat crew",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Body repairer or painter (automobile industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Boilermaker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bond dealer (bail bonds)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bond trader",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bondsman, bondsperson (bail bonds)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bondsman, bondsperson (not bail bonds)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bookkeeper",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Border patrol officer, chief, lieutenant or sergeant",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Botanist (including field work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bowling alley manager (supervisory duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Bowling alley worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Brakeman (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Brewer (business owner, involved in full range of brewing activity)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Brewery chemist, collector, inspector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Brewery manager, supervisor (involved in production)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Building foreman",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Building inspector",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Building painter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Building rental, leasing property manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Butcher (grocery store)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Buyer (livestock yard)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cabinet maker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cable splicer (telecommunications industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Camera operator (motion picture industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Camera operator (television or online broadcasting)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Candlemaker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Captain (seagoing vessel, journeys lasting less than 24 hours, returning home between trips)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Captain (seagoing vessel, required to be away from home on journeys lasting more than 24 hours)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Car barn inspector (urban rail transit)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Car barn worker (urban rail transit)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Carpenter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Carpet cleaner",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Carpet layer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cartographer, map maker",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Casino director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Casino employee (non-management duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Caterer (business owner)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Caterer (employee)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Catfish farm worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cattle breeder",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cell phone tower climber",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cement finisher",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "CEO, CFO, COO, CTO (50+ employee company)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "CEO, CFO, COO. CTO (strategic leadership of sub 50-employee business, other employees perform essential operational functions)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Certified nursing assistant (hospital)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chauffeur",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Check room attendant (restaurant)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Checker (warehouse)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chef, cook",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chief executive officer (one of 10 to 49 co-workers, co-producer of offering)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chief executive officer (sole or co-producer of offering, 8 co-workers or fewer)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chief firefighter (not actively fighting fires)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chief medical information officer",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chief operations officer (one of 10 to 49 co-workers, co-producer of offering)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chief operations officer (sole or co-producer of offering, 8 co-workers or fewer)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Child care support worker or attendant",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Child welfare director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Childcare center administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chimney sweep",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chiropodist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Chiropractor",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "CIA field agent",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "CIA non-field agent (based entirely in the USA, desk duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cinema projectionist",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "City council member",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Clergy, minister, priest, rabbi",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Clerk (sales, not limited to office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Clerk of the court",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Clinic director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Clinical informatics director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Club professional (tennis, not professional tournament competitor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Coach (college, professional sports)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Coin dealer (not working from home)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Coin dealer (working from home)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cold finisher (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Collection agent (bill collector, including repossession work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "College guidance counsellor",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "College principal, superintendent, assistant principal, assistant superintendent (not teaching)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Commercial artist (not freelance)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Commercial diver",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Compensation director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Comptroller",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Computer consultant, engineer, operator, programmer, security specialist, systems analyst, service and repair worker",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Concert or event planner, promoter",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Concrete finisher",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Conductor (orchestra, band, music group)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Conductor (passenger trains)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Conference center manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction coordinator",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction engineer (including heavy manual duties)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction engineer (including onsite office-based duties, no heavy manual work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction engineer (not office-based, including light manual duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction foreman, superintendent",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction inspector",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Construction manager, superintendent, timekeeper",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Consulting engineer (graduate qualified, mainly office work)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Contracting manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Contractor (business owner, office-based, not entirely home-based)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Contractor (business owner, working at client sites, no manual duties)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Contractor (business owner, working at client sites, some manual duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Contractor (working from home)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Convenience store owner",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Copywriter",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Coremaker (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cornice setter (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Coroner",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Cosmetologist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Courier (local delivery)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Courier (long distance delivery)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Courier (office worker)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Court reporter",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Crane operator",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Crater (warehouse)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Crop duster",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Curator (library, museum or gallery)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Customs inspector (front line operational duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Customs or immigration inspector, official (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dairy farm manager",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dairy worker (production, using machinery or tools or milking)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dance teacher",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Day care (Kindergarten) worker",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Day spa director",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Day trader (stock trader)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Decorator (including painting or wallpaper hanging)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dental assistant, hygienist, laboratory technician or worker",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dentist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dentist (armed forces personnel)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Denturologist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Department store manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dermatologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Detective (police officer, duties may include working undercover)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Detective (police officer, not working undercover)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Detective (private or undercover)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Diamond cutter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Die setter (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dietitian (no food preparation)",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dietitian (preparing food)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Director (one of 10 to 49 co-workers, co-producer of offering)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Director (sole or co-producer of offering, 8 co-workers or fewer)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Director of university housing",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Disaster response or emergency management director, co-ordinator",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Disc jockey",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dishwasher",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dispatcher (all business lines)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dispatcher (railroad)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Distiller (business owner, involved in full range of distilling activity)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Distillery chemist, collector, inspector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Distillery manager, supervisor (involved in production)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Distribution center manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Diver (commercial)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dock worker, stevedore. longshoreman",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Doctor (armed forces personnel)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dog catcher",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Domestic servant",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Donor relations manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Door-to-door salesperson",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Draftsman",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Drain setter (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Driller (oil and natural gas industry)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Driver (sanitation services vehicle)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Driving instructor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Druggist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dry cleaner (not shop-based)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dry cleaner (shop-based)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dry cleaning business owner (including operating machines, not shop-based)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dry cleaning business owner (office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dry wall installer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dyer (laundry, not shop-based)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dyer (laundry, shop-based)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Dynamo, generator operator (utility industries)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ebay seller (business owner)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Economist",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Editor (broadcast news, newspaper, publishing)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "E-learning manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Electrician (not high power lines)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Electrician (high power lines)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Electrologist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Electrolycist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Electroplater",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Electrostatic painter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Elementary school principal",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Elevator inspector",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Elevator installer and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Embalmer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Emergency medicine technician",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Employee benefits director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Employee development director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Employment agent",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Endocrinologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (construction, including heavy manual duties)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (construction, including onsite office-based duties, no heavy manual work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (construction, not office-based, including light manual duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (field supervision)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (locomotive)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (lumber industry, no machinery use)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (master control, radio, television or online broadcasting)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (other than master control, radio, television or online broadcasting)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (professional, graduate qualified, office and consulting work)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineer (urban rail transit)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineering design director, manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engineering director, manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Engraver",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Entertainer (radio, street, television, theatre)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Estimator (construction industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Evangelist (including overseas assignments)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Evangelist (not operating overseas)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Executive (one of 10 to 49 co-workers, co-producer of offering)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Executive (sole or co-producer of offering, 8 co-workers or fewer)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Explosive handler",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Export manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Exporter / Importer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Exterminator",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Farm hand, worker, laborer (production, animal management, working on the land or using machinery or tools)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Farmer, farm owner (production, animal management, working on the land or using machinery or tools)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Farmer, farm owner (strategic, administrative, not directly involved in production, no use of farm machinery or tools)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Farrier",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fast food outlet employee",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fast food outlet manager (not owner)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fast food outlet manager (owner)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "FBI Bureau of Alcohol, Tobacco, Firearms and Explosives personnel",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "FBI detective, field agent, air marshal",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "FBI non-field agent (desk duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fence installer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fencing instructor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ferry captain (journeys lasting less than 24 hours, returning home between trips)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ferry captain (required to be away from home on journeys lasting more than 24 hours)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fiberglass worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Field supervisor (geologist, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Film director, editor, producer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Financial accountant, planner",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Financial controller (at a business with 20 or more staff)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Financial controller (at a business with fewer than 20 staff)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Financial director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Financial services consultant",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Finisher (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Firefighter (airport)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Firefighter (forestry service)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Firefighter (not forestry service, not airport)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Firefighter (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "First mate (ship)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fish farm worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fish hatchery manager",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fish, game warden",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fisherman (all types, including deep sea and inshore)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fishing guide (leisure activity)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fishing industry superintendent, supervisor (land-based)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fishing industry worker (land-based)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fitness club director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Flagman (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Flagman (railroad, always working in tower)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Flagman (railroad, not always working in tower)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Flight attendant (airline)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Flight service specialist",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Floor finisher",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Floral arranger",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Florist (cultivation, greenhouse worker)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Florist (shop or internet sales)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food processing foreman, inspector, machine operator, packer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food processing manager, superintendent (including production line work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food processing manager, superintendent (supervisory duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food processing worker (unskilled labor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food service operation director, manager, owner or proprietor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food truck owner, driver or server",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Food vendor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreign correspondent (journalist, reporter)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (construction industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (mining industry, always above ground)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (oil and natural gas industry, including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (paper and pulp industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (quarry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (telecommunications industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foreman (warehouse)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Forest ranger, park ranger",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Forestry service firefighter",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fork lift truck operator",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Foundation director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Founder (one of 10 to 49 co-workers, co-producer of offering)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Founder (sole or co-producer of offering, 8 co-workers or fewer)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Freelance artist",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Freight loader (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Fundraising director, Funding coordinator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Funeral director, mortician (no embalming)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Furnace installer, setter (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Furniture finisher and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Furniture mover",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gallery curator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Garage mechanic",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Garage proprietor (no vehicle repair work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Garbage collector (business owner, desk duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Garbage collector (truck-based operative)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gardener, horticulturist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gauger (oil and natural gas industry, including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gauger (oil and natural gas industry, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "General contractor (construction industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "General superintendent (overseeing multiple departments or locations)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Geneticist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Geologist (consultant, not offshore)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Geologist (field supervisor, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Geologist (offshore)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Geophysical manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Glass blower",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Glass eye maker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Glazier",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Golf club manager, proprietor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Golf club professional (coach or resident, not professional competitor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Golf course professional (coach or resident, not professional competitor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Golf professional (club coach or resident, not professional competitor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Government official (elected or appointed)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Governor",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Graphic artist, designer",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Greenkeeper",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Grocery store butcher",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Grocery store manager, clerk, cashier",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (armored car)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (bank)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (hospital)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (industrial plant, explosives onsite)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (mine)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (prison or other penal institution)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guard (sanatorium)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guide (fishing, leisure activity)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Guide (hunting, leisure activity)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gunsmith",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gutter installer and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Gutter setter (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hairdresser",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Harbor pilot",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hatchery worker (production, animal management, using machinery or tools)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hazardous waste clean-up supervisor",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hazardous waste clean-up worker",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Head Start director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Health club attendant, instructor, proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Health information services manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Health official (front line operational duties)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Health official (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Heat treater",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Heat treater (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Heavy equipment operator (construction industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hematologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Holistic medicine practitioner",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Home inspector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Homemaker",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Homeopath",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Horse breeder",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Horse massage therapist",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Horse shoer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Horse trainer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital attendant, orderly",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital guard",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital laundry worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital manager, superintendent (involving facilities management duties beyond office work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital manager, superintendent (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hospital nurse",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Host, hostess (restaurant)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel bellhop, concierge, valet",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel clerk",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel maid",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel manager (full range of hospitality duties, not living on the premises)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel manager (living on the premises)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel manager (office duties only, not living on the premises)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel manager (small hotel with under 20 employees)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel porter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hotel receptionist",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "House cleaner",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "House mover",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "House renovator, flipper",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Human resources manager, director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hunting guide (leisure activity)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Hypnotherapist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ice skating instructor",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Immigration inspector, official (front line operational duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Industrial plant guard (explosives onsite)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Information personnel (railroad)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "In-home salesperson (such as Mary Kay, Pampered Chef, Tupperware)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Innkeeper (including bartender duties)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Innkeeper (not bartender)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (food processing)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (livestock yard)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (oil and natural gas industry, including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (oil and natural gas industry, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (structural steel)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Inspector (telecommunications industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Instructor (ice skating)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Insulation installer (not using sprays)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Insulation installer (using sprays)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Insurance agent, broker",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Insurance inspector",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Insurance investigator (not private investigator)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Interior decorator, designer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Internal Revenue worker (front line operational duties, not seasonal)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Internal Revenue worker (office duties, not seasonal)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Internal Revenue worker (seasonal)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Internet sales business owner",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Interpreter (foreign languages, sign language)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "IT systems director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Jailer (Prison or other penal institution)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Janitor (custodian)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Jeweler (designing or creating jewelry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Jeweler (not designing or creating jewelry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Job analysis manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Job setter (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Jockey (horse racing)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Journalist (foreign correspondent)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Journalist, reporter (no overseas work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Judge",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Junk dealer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Karate instructor",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Keeper (Prison or other penal institution)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Kennel worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Kitchen worker (restaurant)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Labor relations director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Laboratory worker",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Laborer (all industries)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Laborer (construction industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Landscaper",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lather",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Laundry business owner (including operating machines, not shop-based)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Laundry business owner (office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Laundry worker (not shop-based)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Law enforcement officer",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Legal secretary",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lens grinder",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Library curator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Limousine driver",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lineman (telecommunications industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Liquor store manager, owner, salesperson (sales of liquor to be drunk away from the premises)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Liquor truck driver",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lithographer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Livestock yard buyer, inspector, supervisor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lobbyist",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Locksmith",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Locomotive engineer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Logger",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Logging inspector (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Loss adjuster (insurance)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lumber industry laborer (unskilled worker)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lumber industry surveyor",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Lumber industry tallyman",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Luthier (stringed instrument maker)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Machine operator",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Machine operator (food processing)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Machinist (machine shop)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Machinist (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Makeup artist (motion picture industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (brewery distillery, winery, office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (food processing, including production line work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (hotel, living on the premises)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (hotel, office duties only, not living on the premises)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (manufacturing business, office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (mining industry, always above ground)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (operational risk)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manager (wholesale liquor distribution, office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manicurist, nail salon manager",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manufacturer's representative (sales person)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Manufacturing director",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Marina club director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Marketing director, manager, administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Marshal (non-active firefighter, leadership role)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Massage therapist (at a medical facility)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Massage therapist (not at a medical facility)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meat dresser",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meat packer (in a dressing or slaughtering environment)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meat packer (not in a dressing or slaughtering environment)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meat packing foreman (not dressing or slaughtering)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mechanic (railroad)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mechanic (sanitation services)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mechanical engineering director, manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Medical records administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mental health program manager",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Merchant marine worker",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Metallurgist (including field work, no underground work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Metallurgist (including underground work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Metallurgist (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meteorologist",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meter installer (utility industries)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meter installer and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Meter reader",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Midwife",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mill engineer (lumber industry, no machinery use)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mill foreman, gracer, inspector (lumber industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mill maker, scaler (lumber industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Millwright",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mine guard",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Miner (including underground work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mineralogist (including field work, no underground work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mineralogist (including underground work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mineralogist (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mining industry worker (including underground work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Mining industry worker (not office-based, not supervisory, always above ground)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Missionary",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Model (fashion, catwalk, artist's, other)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Molder",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Monument dealer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Monument engraver, setter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Motivational speaker",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Motorcycle dealer, sales person (showroom sales)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Motorcycle mechanic",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Museum curator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Music conductor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Musical instrument maker and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Musician (professional orchestral performer)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Myotherapist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nanny (day care only, not live-in)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nanny (live-in)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Naturopath",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "New car wholesaler",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Newscaster (radio, television or online broadcasting)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Newspaper delivery worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Newspaper mailer, stuffer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Newspaper photographer (no overseas work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nuclear facility worker (exposed to hazardous materials)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nuclear facility worker (not exposed to hazardous materials)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nurse (clinic, doctor's practice)",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nurse (hospital, surgical)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nurse practitioner (clinic, doctor's practice)",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nurse practitioner (hospital, surgical)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nursery manager, foreman, sales person (horticulture, not limited to office work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nursery manager, preschool director (childcare, office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nursery supervisor (horticulture, no manual duties)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Nurse's aide (hospital or sanitorium)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Occupational therapist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ocean program administrator",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ocularist (glass eye maker)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Office machine repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Office worker (all industries except offshore rigs or vessels)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Office worker (mining industry, always above ground)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Office worker (quarry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Offshore geologist",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Offshore oil and natural gas industry worker",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "On-air sales person (television or online broadcasting)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "On-air salesperson",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Operational risk manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ophthalmologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Optician",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Optometrist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Orchard manager",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Orchard worker (production, working in the orchard, using machinery or tools)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Orchestra musician, conductor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Orthodontist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Osteopath",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Oyster farm worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Packer (food processing)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Packer (warehouse)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Painter (building)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Painter (creative artist)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Painter and decorator",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Paintless dent remover (automobile industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Paper industry worker (not supervisory)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Paralegal assistant",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Paramedical examiner",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pardon officer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Parking attendant",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Parole officer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pathologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pawn broker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Performer (radio, street, television, theatre)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Personal trainer (fitness)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pet groomer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pet sitter or walker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pet walker or sitter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pharmacist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Phlebotomist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photoengraver",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photographer (freelance, no aerial, stunt or war photography)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photographer (newspaper, including overseas work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photographer (newspaper, no overseas work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photographer (studio, no exterior work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photographer (stunt)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photographer (war)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Photoprocessor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Physical therapist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Physician",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Physician assistant",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Piano tuner",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Picture framer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pile driver",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pilot (airline, aviation)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pipe fitter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pipeline pumper (oil and natural gas industry, including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pipeline pumper (oil and natural gas industry, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Placer (telecommunications industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Plant manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Plant superintendent (utility industries)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Plasterer (interior decoration)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Plater (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Plumber",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Podiatrist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Poker player, consultant",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Police detective (duties may include working undercover)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Police detective (not working undercover)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Police officer",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Police personnel (desk duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Polisher",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pool cleaner",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pop musician, singer",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Porter (airport, railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Postal worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Postmaster, supervisor, counter clerk",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Potter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Power line construction or maintenance worker",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Power line installer, repairer (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Power station worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Presenter (radio, television)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Prison chaplain",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Prison guard",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Prison superintendent, warden",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Private detective",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Private investigator",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Private nurse (living at client's home)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Private nurse (not living at client's home)",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Probation officer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Process server",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Process worker (motion picture industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Procurement manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Production manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Production manager (outside radio, television or online broadcasting)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Professional engineer (graduate qualified, office and consulting work)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Professional singer",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Professional sportsman (all sports)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Program director (radio, television or online broadcasting)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Proofreader",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Props person (motion picture industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Provost",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Psychiatrist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Psychologist (Ph. D qualified)",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Public administrator (neither elected nor appointed)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Public affairs director, publicity director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Public safety officer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pulmonologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pumpman (oil and natural gas industry, including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pumpman (oil and natural gas industry, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Pumpman (utility industries)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Purchasing agent",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Purchasing director, manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Purifying plant worker (utility industries)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Quarry foreman, superintendent, supervisor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Quarry manager (office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Quarry worker (not office-based, not supervisory)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Radio station manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Radiologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad announcer",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad dispatcher",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad engineer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad firefighter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad freight loader",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad guard",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad manager (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad mechanic",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Railroad porter",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ranch hand, worker (production, animal management, using machinery or tools)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Rancher",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Real estate agent, broker",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Real estate appraiser",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Realtor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Receiving and shipping clerk (railroad, including freight handling)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Receiving and shipping clerk (railroad, office duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Receptionist (all industries)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Records and information manager, director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Referee (professional sport)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Registered medical technologist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Registered occupational therapist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Registered pharmacist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Reporter (foreign correspondent)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Resident tennis professional (sports club, not professional tournament competitor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Respiratory therapist",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Restaurant cashier",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Rheumatologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Riverboat captain",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Roller (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Roofer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Roustabout (including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Roustabout (not offshore)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Salary administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sales clerk (not limited to office duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sales manager (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sales manager, director",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanatorium administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanatorium manager, superintendent (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sandblaster",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sander (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanatorium guard",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services foreman",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services foreman, supervisor (no manual duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services manager (including work at customer premises)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services manager (office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services mechanic",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services vehicle driver",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitation services worker (not supervisory)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sanitorium manager, superintendent (involving facilities management duties beyond office work)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Saw filer (mill, lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Scaler (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "School principal, superintendent",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Scrap metal dealer (including handling of scrap metal)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Scrap metal dealer (office duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sculptor",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Seamstress",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Secretary (all industries)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Security system installer and repairer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Senator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Septic tank cleaner",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Servant",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Service station proprietor, manager, attendant",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sheet metal worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ship builder",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Shipping and receiving clerk (railroad, including freight handling)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ship's captain (journeys lasting less than 24 hours, returning home between trips)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ship's captain (required to be away from home on journeys lasting more than 24 hours)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ship's first mate",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ship's pilot",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Shoe shiner",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Shrimp farm worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sign painter, writer, erector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Signal installer (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Signal repairer (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Singer (professional performer)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Skating rink director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ski resort director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sky marshal",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Slaughterer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Slot operations director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Social services worker (front line duties)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Social services worker (office duties only)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Solder (steel manufacture)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Speech pathologist",
+   "Rate Class": "4M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sports agent",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sports broadcaster, analyst (radio, television and online)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Spout setter (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Spray painter (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Sprinkler system installer and repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stadium manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stage hand (motion picture industry)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stage manager (motion picture industry)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Steamfitter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Steeplejack",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stenographer (all industries)",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Steward (railroad)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stock trader",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stockbroker",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Stone mason, cutter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Street cleaner",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Structural iron and steel worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Structural metal inspector",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Structural steel inspector",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Student",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Student services director",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Studio manager (radio, television or online broadcasting)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Superintendent (mining industry, always above ground)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Superintendent (non-active firefighter, leadership role)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Superintendent (steel manufacture)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Superintendent, supervisor (manufacturing business, supervisory duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Superintendent, supervisor (paper and pulp industry, supervisory duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Surgeon",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Surveyor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Surveyor (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "SWAT team member",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Switchman (railroad, always working in tower)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Switchman (railroad, not always working in tower)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Table games director, manager or proprietor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tailor",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Talent agent",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tallyman (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tattoo artist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Taxidermist",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Teacher, lecturer, professor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Telephone line installer and repairer (customers' homes only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Telephone line installer and repairer (including working outdoors)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Telephone operator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tennis professional (sports club, not professional tournament competitor)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Textile worker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Ticket clerk (railroad)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tile layer (interior decoration)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tinner (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tinsmith (sheet metal work)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tire fitter or repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tire retreader",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Toll collector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tool and die maker",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tour manager (music groups)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tow truck driver",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Toxicologist",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Track installer (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Track repairer (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Track worker (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Traffic manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Traffic safety administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Train steward",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Training and development manager",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Transcriptionist",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Translator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Transportation Security Administration personnel (armed)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "Transportation Security Administration personnel (unarmed)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Travel agent",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Traveling salesperson",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tree sprayer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tree surgeon",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tree trimmer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tribal council member",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Truant officer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Truck driver",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Truck mechanic",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "TSA personnel (armed)",
+   "Rate Class": "1A*",
+   "Category": ""
+ },
+ {
+   "Occupation": "TSA personnel (unarmed)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tug boat captain (including distances preventing return home every night)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Tug boat captain (inshore or distances allowing return home every night)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Turbine operator (utility industries)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "TV antenna installer or repairer",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "TV repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Typesetter",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Undercover detective",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Underwater search and rescue personnel",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "University dean, department chair, president, registrar",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Unskilled worker (manufacturing)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Upholsterer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Urban rail transit engineer, worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Urban rail transit inspector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Used car wholesaler",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Utilities manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Varnisher (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Vehicle dealership manager, proprietor, sales person (new or used, chain or independent dealership)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Vehicle repairer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Vending machine collector, filler, sales person",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Veterinarian, technician (large animal)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Veterinarian, technician (small animal)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Video tape editor",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Vinyl siding installer",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wage and salary administrator",
+   "Rate Class": "4A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Waiter, server (bar, hotel, restaurant, tavern, food service operation)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Walker (oil and natural gas industry, including offshore work)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Walker (oil and natural gas industry, not offshore)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wallpaper hanger",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "War correspondent (journalist, reporter)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Warehouse manager",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Warehouse worker (laborer)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Watch maker, repairer",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Watchman",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Welder",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Welfare worker (investigating and reporting)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Well driller (oil and natural gas industry)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Well driller (water only)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wholesale liquor distribution delivery worker",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wholesale liquor distribution manager, supervisor (some work in warehouse)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wholesale liquor distribution worker (office duties only)",
+   "Rate Class": "3A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wholesale liquor distributor (business owner, some work in warehouse)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Wind turbine builder and repairer",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "Window cleaner",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Winery chemist, collector, inspector",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Winery manager, supervisor (involved in production)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Winery owner (involved in full range of winemaking activity)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Writer (author, creative writing)",
+   "Rate Class": "D",
+   "Category": ""
+ },
+ {
+   "Occupation": "X-ray technician",
+   "Rate Class": "3M",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yard foreman (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yard foreman (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yard inspector (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yard sealer (lumber industry)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yard worker (railroad)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yardmaster (railroad, general duties in yard)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yardmaster (railroad, supervisory duties only)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Yeast maker (brewing)",
+   "Rate Class": "2A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Zookeeper (large animals)",
+   "Rate Class": "1A",
+   "Category": ""
+ },
+ {
+   "Occupation": "Zookeeper (small animals)",
+   "Rate Class": "2A",
+   "Category": ""
+ }
+]
