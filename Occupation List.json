@@ -1165,6 +1165,11 @@
    "Category": "Physicians & Specialists"
  },
  {
+   "Occupation": "Die Setter",
+   "Rate Class": "2A",
+   "Category": "Skilled Trades & Technical"
+ },
+  {
    "Occupation": "Dietitian (preparing food)",
    "Rate Class": "3M",
    "Category": "Physicians & Specialists"
@@ -1440,7 +1445,7 @@
    "Category": "Engineers (General & Specialized)"
  },
  {
-   "Occupation": "Engineer (construction, not Hulu, not office-based, including light manual duties)",
+   "Occupation": "Engineer (construction, not office-based, including light manual duties)",
    "Rate Class": "2A",
    "Category": "Engineers (General & Specialized)"
  },
@@ -1705,7 +1710,7 @@
    "Category": "Forestry & Wildlife"
  },
  {
-   "Occupation": "Fisherman (all types",
+   "Occupation": "Fisherman (all types, including deep sea and inshore)",
    "Rate Class": "D",
    "Category": "Agriculture & Farming"
  },
@@ -1890,7 +1895,7 @@
    "Category": "Ground Transportation"
  },
  {
-   "Occupation": "Fundraising director",
+   "Occupation": "Fundraising director, Funding coordinator",
    "Rate Class": "4A",
    "Category": "General Management"
  },
@@ -1940,7 +1945,7 @@
    "Category": "Ground Transportation"
  },
  {
-   "Occupation": "Gardener",
+   "Occupation": "Gardener, horticulturist",
    "Rate Class": "2A",
    "Category": "Agriculture & Farming"
  },
@@ -2035,7 +2040,7 @@
    "Category": "Government & Public Service"
  },
  {
-   "Occupation": "Graphic artist",
+   "Occupation": "Graphic artist, designer",
    "Rate Class": "4A",
    "Category": "Creative & Design"
  },
@@ -2435,12 +2440,7 @@
    "Category": "Skilled Trades & Technical"
  },
  {
-   "Occupation": "Insurance agent",
-   "Rate Class": "4A",
-   "Category": "Sales & Customer Service"
- },
- {
-   "Occupation": "Broker",
+   "Occupation": "Insurance agent, Broker",
    "Rate Class": "4A",
    "Category": "Sales & Customer Service"
  },
@@ -3075,12 +3075,12 @@
    "Category": "Skilled Trades & Technical"
  },
  {
-   "Occupation": "Nurse (clinic)",
+   "Occupation": "Nurse (clinic, doctor's practice)",
    "Rate Class": "4M",
    "Category": "Nursing & Allied Health"
  },
  {
-   "Occupation": "Nurse (hospital surgical)",
+   "Occupation": "Nurse (hospital, surgical)",
    "Rate Class": "3M",
    "Category": "Nursing & Allied Health"
  },
@@ -3097,6 +3097,11 @@
  {
    "Occupation": "Nursery manager, foreman, sales person (horticulture, not limited to office work)",
    "Rate Class": "2A",
+   "Category": "Agriculture & Farming"
+ },
+  {
+   "Occupation": "Nursery supervisor (horticulture, no manual duties",
+   "Rate Class": "3A",
    "Category": "Agriculture & Farming"
  },
  {
@@ -3755,7 +3760,7 @@
    "Category": "Ground Transportation"
  },
  {
-   "Occupation": "Ranch hand (worker production)",
+   "Occupation": "Ranch hand, worker (production, animal management, using machinery or tools)",
    "Rate Class": "1A",
    "Category": "Agriculture & Farming"
  },
@@ -3965,7 +3970,7 @@
    "Category": "Lumber Industry Specific"
  },
  {
-   "Occupation": "School principal",
+   "Occupation": "School principal, superintendent",
    "Rate Class": "4A",
    "Category": "Academic Administration"
  },
